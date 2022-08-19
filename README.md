@@ -1,9 +1,13 @@
-# Basic-Chatbot-main
-Simple-Chatbot
-Is a chatbot a robot?
-An intelligent chatbot is a piece of software that can communicate and perform actions similar to a human. In customer interaction, social networking marketing, and instant messaging, chatbots are frequently used. The way that chatbots are built determines their basic type:
+# Basic-Chatbot
 
-Model-based on retrieval
-A model based on generative analysis
-A brief description of the project
-A simple chatbot built using deep learning techniques is the result of this Python project. A dataset containing categories (intents), patterns, and responses is used to train the chatbot. To determine which category the user's message belongs to, I used recurrent neural networks (LSTMs) and then generated a random response based on the list of possible responses.
+## What is Chatbot?
+A chatbot is an intelligent piece of software that is capable of communicating and performing actions similar to a human. Chatbots are used a lot in customer interaction, marketing on social network sites and instantly messaging the client. There are two basic types of chatbot models based on how they are built:
+<ol><ul>Retrieval based model</ul>
+  <ul>Generative based model</ul></ol>
+  
+## About this project
+In this Python project I have built a simple chatbot using deep learning techniques. 
+The chatbot is trained on the dataset which contains categories (intents), pattern and responses. I have used a special recurrent neural network (LSTM) to classify which category the user’s message belongs to and then give a random response from the list of responses.
+  
+  
+  
